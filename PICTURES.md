@@ -1,3 +1,3 @@
 # Bilder etc.
 
-in diesem Branch werden sämtliche Bilder gesammelt.
+in dem BRanch Pictures sollten alle Bilder gesammelt werden.
